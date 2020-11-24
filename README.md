@@ -42,7 +42,7 @@ Si quieres contribuir, bien sea dando ideas de mejora, añadiendo código o de c
   
 ### Licencia 
 ---
-#####¡Código abierto!
+##### ¡Código abierto!
 
 ¿Quieres realizar mejoras en el código?, ¡Adelante!, pero si logras mejorar la app no te olvides de proponer un "Pull request" para que podamos valorar la posibilidad de unir tu código con el nuestro.
 
