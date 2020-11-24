@@ -1,4 +1,4 @@
-## Documentación de Soporte y Uso de herramientas digitales
+## Documentación de Soporte y uso de herramientas digitales
 
 ### Nombre
 ---
@@ -30,16 +30,16 @@ Una vez que hayamos descargado la ultima versión de la aplicación [Click aquí
 ### Cómo contribuir
 ---
 Si quieres contribuir, bien sea dando ideas de mejora, añadiendo código o de cualquier otra forma. Puedes ponerte en contacto con nosotros en los siguientes correos:
--[Eric Martínez](mailto:eric.martinez@ikasle.egibide.org?subject=[GitHub]%Aergibide%SL%APP:%Contribuir)
--[Naia Ibañez de Garayo](mailto:naia.ibanezdegarayo@ikasle.egibide.org?subject=[GitHub]%Aergibide%SL%APP:%Contribuir)
--[Urko Ruiz de Gordejuela](mailto:urko.ruizdegordejuela@ikasle.egibide.org?subject=[GitHub]%Aergibide%SL%APP:%Contribuir)
+  - [Eric Martínez](mailto:eric.martinez@ikasle.egibide.org?subject=[GitHub]%Aergibide%SL%APP:%Contribuir)
+  - [Naia Ibañez de Garayo](mailto:naia.ibanezdegarayo@ikasle.egibide.org?subject=[GitHub]%Aergibide%SL%APP:%Contribuir)
+  - [Urko Ruiz de Gordejuela](mailto:urko.ruizdegordejuela@ikasle.egibide.org?subject=[GitHub]%Aergibide%SL%APP:%Contribuir)
 
 ### Autor/es
 ---
--Eric Martínez
--Naia Ibañez de Garayo
--Urko Ruiz de Gordejuela
-
+  - Eric Martínez
+  - Naia Ibañez de Garayo
+  - Urko Ruiz de Gordejuela
+  
 ### Licencia 
 ---
 #####¡Código abierto!
